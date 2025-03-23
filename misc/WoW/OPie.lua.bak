@@ -1,0 +1,124 @@
+
+OneRing_Config = nil
+OPie_SavedData = {
+["CharProfiles"] = {
+},
+["_GameVersion"] = "11.1.0",
+["_OPieVersion"] = "Ælling 4 (4.128)",
+["ProfileStorage"] = {
+["default"] = {
+["Bindings"] = {
+["Useful"] = "K",
+["SpecMenu"] = "CTRL-N",
+["CommonTrades"] = false,
+["RaidSymbols"] = false,
+["DKCombat"] = false,
+["UI"] = "J",
+["WorldMarkers"] = "ALT-R",
+["OPieAutoQuest"] = false,
+["OPieTracking"] = false,
+},
+},
+},
+["PersistentStorage"] = {
+["RingKeeper"] = {
+["UI"] = {
+{
+"uipanel",
+"guild",
+["sliceToken"] = "ABueQ9yin4y",
+},
+{
+"uipanel",
+"achievements",
+["sliceToken"] = "ABueQ9yin4u",
+},
+{
+"uipanel",
+"groupfinder",
+["sliceToken"] = "ABueQ9yin4i",
+},
+{
+"uipanel",
+"adventureguide",
+["sliceToken"] = "ABueQ9yin42",
+},
+{
+"uipanel",
+"collections",
+["sliceToken"] = "ABueQ9yin4o",
+},
+{
+"uipanel",
+"profs",
+["sliceToken"] = "ABueQ9yin4p",
+},
+{
+"uipanel",
+"calendar",
+["sliceToken"] = "ABueQ9yin4a",
+},
+{
+"uipanel",
+"reputation",
+["sliceToken"] = "ABueQGfPLGw",
+},
+["name"] = "UI",
+["save"] = true,
+},
+["Useful"] = {
+{
+"toy",
+198173,
+["sliceToken"] = "ABueQ9pAA8w",
+},
+{
+"toy",
+156833,
+["sliceToken"] = "ABueQ9pAA8e",
+},
+{
+"toy",
+217724,
+["sliceToken"] = "ABueQ9pAA8r",
+},
+{
+"toy",
+220777,
+["sliceToken"] = "ABueQ9pAA81",
+},
+{
+["sliceToken"] = "ABueQ9pAA8t",
+["id"] = 436854,
+},
+{
+"toy",
+140192,
+["sliceToken"] = "ABueQ9pAA8y",
+},
+{
+"toy",
+110560,
+["sliceToken"] = "ABueQ9pAA8u",
+},
+{
+"toy",
+219387,
+["sliceToken"] = "ABueQ9pAA8i",
+},
+{
+"toy",
+183716,
+["sliceToken"] = "ABueQ9pAA8o",
+},
+["offset"] = 0,
+["save"] = true,
+["name"] = "Useful",
+},
+["OPieFlagStore"] = {
+["StoreVersion"] = 3,
+},
+},
+},
+["_GameLocale"] = "enUS",
+}
